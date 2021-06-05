@@ -1,5 +1,5 @@
 class Turtle:
-    """关于类的一个简单例子"""
+    """关于类的一个简单例子 hi,soft shelled turtle"""
     color = 'green'
     weight = 10
     legs = 4
@@ -17,7 +17,7 @@ class Turtle:
         print("困了，睡了，晚安，Zzzz") 
 
 
-print(__name__)
+print(__name__,"mm")
 if __name__ =='__main__':
     tt = Turtle()
     tt.climb()
